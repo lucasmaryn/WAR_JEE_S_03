@@ -1,0 +1,10 @@
+2017-10-30 15:23:30 INFO  App:15 - --------------------> abc
+2017-10-30 15:48:23 ERROR App:15 - --------------------> abc
+2017-10-30 15:49:32 ERROR App:15 - --------------------> abc
+2017-10-30 15:49:32 ERROR App:19 - Cos tu sie stalo
+java.lang.ArithmeticException: / by zero
+	at pl.coderslab.App.main(App.java:17)
+2017-10-30 15:50:37 ERROR App:15 - --------------------> abc
+2017-10-30 15:50:37 ERROR App:19 - Cos tu sie stalo
+java.lang.ArithmeticException: / by zero
+	at pl.coderslab.App.main(App.java:17)
